@@ -11,22 +11,18 @@ If you want to try the code there are a couple of different options described be
 To run matrix factorization with the same configuration and folds, as in the paper, on the movielens100k data set run:
 
 ```
-#!python
-
 python -i fact.py
 ```
 
 and in the interactive python console call the function 
 
 ```
-
 kFold()
 ```
 
 To run matrix factorization on the amazon music instruments data set
 
 ```
-
 python -i fact.py
 kFoldMinstru()
 ```
