@@ -33,6 +33,6 @@ To run the nearest neighbour with threshold filtering. All you need to do is run
 
 The current configuration of the method is a threshold of 0.2, significance minimum of 50, and it's being run on the movielens 100k data set.
 
-If you want to change the threshold or the dataset you can do so at the end of the testing.py file. You will also need to create a new folder in the dataset folder. Named like the one currently in the folder. 
+If you want to change the threshold or the dataset you can do so at the end of the testing.py file. You will also need to create a new folder in the dataset folder. For a threshold of 0.2 you need to create the folder mLens/TH0.2 aswell as the folder mLens/TH0.2/data
 
 If you want to change the significance minimum it can be done in the naboItem.py file.
