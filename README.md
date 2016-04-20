@@ -19,7 +19,6 @@ python -i fact.py
 and in the interactive python console call the function 
 
 ```
-#!python
 
 kFold()
 ```
@@ -27,7 +26,6 @@ kFold()
 To run matrix factorization on the amazon music instruments data set
 
 ```
-#!python
 
 python -i fact.py
 kFoldMinstru()
